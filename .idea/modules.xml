@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ijkmediademo.iml" filepath="$PROJECT_DIR$/ijkmediademo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ijkmediaplayer/ijkmediaplayer.iml" filepath="$PROJECT_DIR$/../ijkmediaplayer/ijkmediaplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ijkmediawidget/ijkmediawidget.iml" filepath="$PROJECT_DIR$/../ijkmediawidget/ijkmediawidget.iml" />
+    </modules>
+  </component>
+</project>

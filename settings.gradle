@@ -1,0 +1,6 @@
+include ":ijkmediawidget"
+include ":ijkmediaplayer"
+//include ":contrib:appcompat"
+project(':ijkmediawidget').projectDir = new File(rootDir, '../ijkmediawidget')
+project(':ijkmediaplayer').projectDir = new File(rootDir, '../ijkmediaplayer')
+//project(':contrib:appcompat').projectDir = new File(rootDir, '../contrib/appcompat')
